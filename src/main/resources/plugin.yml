@@ -1,0 +1,6 @@
+name: oldify
+version: '${version}'
+
+main: com.github.zopnote.oldify.Oldify
+api-version: '26.3'
+load: POSTWORLD
